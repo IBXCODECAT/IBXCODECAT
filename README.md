@@ -13,7 +13,7 @@
 
 <p align="center">
     <strong>
-        Check out my socials bellow to get updates for whatever I am currently working on!
+        Check out and follow my socials bellow to get updates for whatever I am currently working on!
     </strong>
     <br/><br/>
     <a href="https://github.com/IBXCODECAT">
