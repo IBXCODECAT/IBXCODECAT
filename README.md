@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>
-        I am a full-stack developer that enjoys solving problems using computer science and practical programming techniques!
+        I am a full-stack developer that enjoys solving problems using computer science and programming!
     </strong>
     <br/><br/>
 </P>
@@ -13,7 +13,15 @@
 
 <p align="center">
     <strong>
-        Check out and follow my socials bellow to get updates for whatever I am currently working on!
+        Join our Discord server!
+    </strong>
+    <br/><br/>
+    <a href="https://discord.gg/WvbCRGSKre">
+        <img src="https://img.shields.io/discord/888875214459535360?color=5865F2&logo=discord&logoColor=white" alt="Discord server"/>
+    </a>
+    <br/><br/>
+    <strong>
+        Follow my socials bellow to get updates for whatever I am currently working on!
     </strong>
     <br/><br/>
     <a href="https://github.com/IBXCODECAT">
