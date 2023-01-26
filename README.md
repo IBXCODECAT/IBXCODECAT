@@ -1,6 +1,6 @@
 ---
 
-<h1 align="center">Hello Fellow Developers! I'm IBXCODECAT!</h1>
+<h1 align="center">Hello Developers! I'm IBXCODECAT!</h1>
 
 <p align="center">
     <strong>
