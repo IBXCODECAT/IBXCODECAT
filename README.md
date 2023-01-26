@@ -4,7 +4,7 @@
 
 <p align="center">
     <strong>
-        I am a full-stack developer that enjoys solving problems using computer science and programming!
+        I am a full-stack developer. I make a lot of hobby projects that never really have a plan. I code on the fly!
     </strong>
     <br/><br/>
 </P>
